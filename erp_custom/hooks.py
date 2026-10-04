@@ -2,7 +2,7 @@ app_name = "erp_custom"
 app_title = "ERP Custom"
 app_publisher = "Abhijeet Shakya"
 app_description = "General ERPNext customisations shared by all businesses"
-app_email = "abhijeet.shakya@infinitelocus.com"
+app_email = "abhi22jeetu@gmail.com"
 app_license = "gpl-3.0"
 
 required_apps = ["erpnext"]
